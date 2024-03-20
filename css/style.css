@@ -1,0 +1,86 @@
+.page-accounts {
+    flex-grow: 1;
+    margin: 0 auto;
+    padding-top: 55px;
+    padding-bottom: 110px;
+    width: 1500px;
+}
+
+.accounts-item-header {
+    display: flex;
+    padding: 0 30px;
+    margin-bottom: 10px;
+}
+
+.accounts-item-header-field {
+    display: inline-block;
+    width: 100px;
+    margin-right: 30px;
+}
+
+.accounts_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.account-item {
+    display: flex;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+.account-item-field {
+    width: 100px;
+    margin-right: 30px;
+}
+
+.h {
+    margin-top: 0;
+    margin-bottom: 50px;
+    font-size: 70px;
+    line-height: 70px;
+}
+
+.button {
+    display: inline-block;
+    padding: 6px 12px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: lightgrey;
+    color: black;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.paginator {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+
+.div {
+    margin: 10px 10px;
+    padding: 0 30px;
+}
+
+.form {
+    margin: 0 auto;
+    padding-top: 55px;
+    padding-bottom: 110px;
+    width: 500px;
+}
+
+.label {
+    margin-right: 10px;
+    display: inline-block;
+    width: 100px;
+}
+
+.error {
+    color: red;
+}
